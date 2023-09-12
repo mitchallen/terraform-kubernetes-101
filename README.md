@@ -1,7 +1,7 @@
 terraform-kubernetes-101
 ==
 
-## Reference
+## Related Article
 
 See this article for more info:
 
@@ -28,3 +28,7 @@ terraform apply
 ```sh
 terraform destory
 ```
+
+## References
+
+* [Should .terraform.lock.hcl be included in the .gitignore file?](https://stackoverflow.com/questions/67963719/should-terraform-lock-hcl-be-included-in-the-gitignore-file)
